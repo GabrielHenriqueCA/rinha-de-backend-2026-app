@@ -6,3 +6,4 @@ index.faiss
 labels.npy
 __pycache__/
 *.pyc
+.claude/
